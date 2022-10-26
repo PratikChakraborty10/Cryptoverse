@@ -44,7 +44,7 @@ const App = () => (
           <Link to="/">
              Cryptoverse Inc.
           </Link> <br />
-          All Rights Reserved.
+          Made with ❤️ by Pratik
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
